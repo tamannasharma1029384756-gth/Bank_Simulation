@@ -1,0 +1,6 @@
+This Banking Simulation Project is a software application developed to simulate the basic operations of a banking system. The main objective of this project is to understand how real-world banking functions work and to implement them using programming concepts.
+This project allows users to create an account, log in securely deposite money, withdraw funds check account balance, and view transaction details. user data is stored in a databse,ensuring proper record management and data consistency.
+The system includes authentication features such as OTP verification and password validation to enhance security.Error handeling and input validation are implemented to prevent transactions and unauthrized access.
+This project is developed using Python for backend logic and SQL/SQLite for database management. A user-friendly interface (Tkinter) is provided for smooth interactions. 
+  You need to replace app password of your gmail account in EmailHandler.py file. later on kindly delete the same due to security purposes.
+Overall this project helps in gaining practical Knowledge of database operations, backend logic, security concepts, and real-time transactions handling, making it useful for learning software development and banking system fundamentals.
